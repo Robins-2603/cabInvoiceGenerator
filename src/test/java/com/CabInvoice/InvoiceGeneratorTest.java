@@ -4,6 +4,7 @@ import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
 public class InvoiceGeneratorTest {
+    // for step 1
     @Test
     public void given_DistanceAndTime_ShouldReturn_TotalFare(){
         InvoiceGenerator invoiceGenerator = new InvoiceGenerator();

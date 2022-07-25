@@ -1,6 +1,8 @@
 package com.CabInvoice;
 
 public class InvoiceGenerator {
+
+    // for step 1
     private static final int RS_PER_MINUTE = 1; //min cost per minute
     private static final double RS_PER_KILOMETER = 10; //min cost per kilometer
 
